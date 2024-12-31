@@ -58,8 +58,9 @@ The analysis provides:
 - Explore seasonality and time-based trends with additional data.
 - Integrate insights into marketing strategies for businesses.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Contributions
+
+Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
 
 
