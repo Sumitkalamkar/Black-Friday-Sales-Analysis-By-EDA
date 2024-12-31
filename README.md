@@ -61,7 +61,5 @@ The analysis provides:
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to explore the project and share your feedback or suggestions. Happy analyzing!
 
